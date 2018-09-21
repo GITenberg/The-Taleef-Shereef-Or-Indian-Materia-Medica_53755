@@ -1,0 +1,23 @@
+_repo: The-Taleef-Shereef-Or-Indian-Materia-Medica_53755
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Playfair, George
+    gutenberg_agent_id: '47521'
+    url: http://www.gutenberg.org/2009/agents/47521
+description: ''
+gutenberg_issued: '2016-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53755'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine, Ayurvedic'
+- !lcc 'RS'
+- !lcsh 'Materia medica -- India'
+- GITenberg
+title: The Taleef Shereef; Or, Indian Materia Medica
+url: http://www.gutenberg.org/ebooks/53755
